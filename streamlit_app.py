@@ -20,7 +20,7 @@ def add_rounded_corners(im, radius=40):
 st.title("Happy Father’s Day, Dad!! 💙")
 
 
-st.markdown("### Music while you scroll")
+st.markdown("### Music while you scroll 🕺🏽")
 components.iframe(
     "https://open.spotify.com/embed/playlist/4cbOOH6OUutN9KHDHQRYw1?utm_source=generator",
     height=300,
@@ -43,7 +43,7 @@ with col2:
     st.image(img2, caption="That moment when you realize you won't be having a peaceful night for a while")
 
 
-st.markdown("<h3 style='text-align:center; color:#4A90E2;'>📸 Memories Over the Years</h3>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align:center; color:#4A90E2;'>📸 Some of my favorite pictures! </h3>", unsafe_allow_html=True)
 
 if "carousel_index" not in st.session_state:
     st.session_state.carousel_index = 0
@@ -91,11 +91,11 @@ tuscany_box = """
     line-height: 1.7;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
 ">
-    <strong>I imagine your day will be filled with plenty of driving, as always</strong>, but I’m virtually sending you a plate of aloo tikki, chole, and a cold beer to go with it.<br><br>
+    I imagine your day will be filled with plenty of driving, but I’m virtually sending you a plate of aloo tikki, chole, and a cold beer to go with it.<br><br>
     Ever since I was little, I’ve always felt the immense love behind everything you do for me. Whether it was buying me the 72-pack of crayons when everyone else had just 12 to encourage my creativity, or picking up the jumbo size of anything from Costco the moment I mentioned I liked it, you’ve always made me feel seen and cared for.<br><br>
     I notice your dedication every single day. The way you work so hard, often without recognition, is something I find deeply inspiring. Thank you for teaching me, not just through your words, but through your actions.<br><br>
     You may not always realize it, but when you say something, it sticks. Years ago, you used to yell at me for not taking notes. Now, it’s the first thing I do whenever I’m learning something new or sitting in a meeting. I carry your lessons with me, quietly but constantly.<br><br>
-    Thank you for everything you do. I’m so incredibly lucky to have you. You make my world brighter, and I love you more than words can say.
+    Thank you for everything you do. I’m so incredibly lucky to have you. You make my world brighter, and I love you more soooo much!!
 </div>
 """
 
